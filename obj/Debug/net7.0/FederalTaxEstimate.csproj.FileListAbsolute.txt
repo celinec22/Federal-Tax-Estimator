@@ -1,0 +1,15 @@
+/Users/celinechahine/Desktop/FederalTaxEstimate/obj/Debug/net7.0/FederalTaxEstimate.csproj.AssemblyReference.cache
+/Users/celinechahine/Desktop/FederalTaxEstimate/obj/Debug/net7.0/FederalTaxEstimate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celinechahine/Desktop/FederalTaxEstimate/obj/Debug/net7.0/FederalTaxEstimate.AssemblyInfoInputs.cache
+/Users/celinechahine/Desktop/FederalTaxEstimate/obj/Debug/net7.0/FederalTaxEstimate.AssemblyInfo.cs
+/Users/celinechahine/Desktop/FederalTaxEstimate/obj/Debug/net7.0/FederalTaxEstimate.csproj.CoreCompileInputs.cache
+/Users/celinechahine/Desktop/FederalTaxEstimate/bin/Debug/net7.0/FederalTaxEstimate
+/Users/celinechahine/Desktop/FederalTaxEstimate/bin/Debug/net7.0/FederalTaxEstimate.deps.json
+/Users/celinechahine/Desktop/FederalTaxEstimate/bin/Debug/net7.0/FederalTaxEstimate.runtimeconfig.json
+/Users/celinechahine/Desktop/FederalTaxEstimate/bin/Debug/net7.0/FederalTaxEstimate.dll
+/Users/celinechahine/Desktop/FederalTaxEstimate/bin/Debug/net7.0/FederalTaxEstimate.pdb
+/Users/celinechahine/Desktop/FederalTaxEstimate/obj/Debug/net7.0/FederalTaxEstimate.dll
+/Users/celinechahine/Desktop/FederalTaxEstimate/obj/Debug/net7.0/refint/FederalTaxEstimate.dll
+/Users/celinechahine/Desktop/FederalTaxEstimate/obj/Debug/net7.0/FederalTaxEstimate.pdb
+/Users/celinechahine/Desktop/FederalTaxEstimate/obj/Debug/net7.0/FederalTaxEstimate.genruntimeconfig.cache
+/Users/celinechahine/Desktop/FederalTaxEstimate/obj/Debug/net7.0/ref/FederalTaxEstimate.dll
