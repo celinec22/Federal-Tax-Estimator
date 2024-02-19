@@ -10,9 +10,12 @@ To run the app, follow these steps:
 
 ## Frontend Setup
 1.Install node from google
-2. Navigate to the frontend directory in another terminal
-3. npm install
-4. npm start
+2.Navigate to the frontend directory in another terminal
+3.npm install
+4.npm start
+
+
+
 
    
    
